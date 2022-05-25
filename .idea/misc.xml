@@ -4,6 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Studio projects/MVVMNewsApp-Handling-network-exceptions/app/src/main/res/layout/fragment_search_news.xml" value="0.35" />
+        <entry key="..\:/Android Studio projects/MVVMNewsApp/app/src/main/res/drawable-v24/undraw_login_re_4vu2.xml" value="0.262" />
+        <entry key="..\:/Android Studio projects/MVVMNewsApp/app/src/main/res/drawable/undraw_login_re_4vu2.xml" value="0.262" />
+        <entry key="..\:/Android Studio projects/MVVMNewsApp/app/src/main/res/layout/activity_forget_password.xml" value="0.25" />
+        <entry key="..\:/Android Studio projects/MVVMNewsApp/app/src/main/res/layout/activity_login.xml" value="0.35" />
+        <entry key="..\:/Android Studio projects/MVVMNewsApp/app/src/main/res/layout/activity_news.xml" value="0.1702127659574468" />
+        <entry key="..\:/Android Studio projects/MVVMNewsApp/app/src/main/res/layout/activity_register.xml" value="0.35" />
+        <entry key="..\:/Android Studio projects/MVVMNewsApp/app/src/main/res/layout/fragment_breaking_news.xml" value="0.22" />
       </map>
     </option>
   </component>
