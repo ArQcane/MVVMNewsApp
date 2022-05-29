@@ -4,7 +4,6 @@
 TikTakNews - An app built for its users to browse US news articles, search relevant articles, and curate their personalised favourite articles to return to.
 
 ### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
 
 1. Download and install Android Studio
    https://developer.android.com/studio/intro
@@ -39,7 +38,7 @@ Enter the Github URL: https://github.com/ArQcane/TikTakNews.git
 and Clone
 
 ### Built With (Dependencies)
-List main libraries, frameworks used including versions (React, Angular etc...)
+
 [Maven Library](https://mvnrepository.com/), Kotlin, MVVM, JUnit4, and Google Firebase Authentication 
 
 ### Installation
