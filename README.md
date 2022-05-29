@@ -45,6 +45,9 @@ and Clone
 
 Simply proceed to ./app/release to find the .apk file and install it.
 
+###Tests
+A simple unit test is done that runs with JUnit4. The unit test tests one of the functions in Newsadapter activity, that receives the inputs of two items of Article data type and compares whether the two items are the same in values, returning a boolean result. This function ensures that same news articles obtained from database is not repeated in the RecyclerView. The test ensures that RecycleView remains coherent and only shows unique news articles to users.
+
 ## Api Reference
 
 For this project, we used the following API:
