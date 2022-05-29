@@ -1,5 +1,5 @@
-<img src="./app/src/main/res/drawable-v24/logo.png" alt="Logo of the project" align="right">
 ### Project Title
+<img src="./app/src/main/res/drawable-v24/logo.png" alt="Logo of the project" align="right">
 
 TikTakNews - An app built for its users to browse US news articles, search relevant articles, and curate their personalised favourite articles to return to.
 
